@@ -1,0 +1,6 @@
+numpy>=1.24
+scikit-learn>=1.3
+torch>=2.1
+torchaudio>=2.1
+transformers>=4.39
+pytest>=8.0
